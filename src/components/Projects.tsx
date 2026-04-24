@@ -13,7 +13,7 @@ const Projects: React.FC = () => {
     {
       title: "LaundryX",
       type: "Service Platform",
-      image: "",
+      image: "/LaundriX.png",
       icon: <Box className="w-8 h-8 text-neon-blue" />,
       desc: "An end-to-end laundry service platform that allows users to schedule pickups, track order progress in real-time, and make secure payments, while providing launderers with a powerful dashboard for managing operations.",
       techStack: ["React.js", "Chakra UI", "Express.js", "MongoDB", "Razorpay", "JWT"],
